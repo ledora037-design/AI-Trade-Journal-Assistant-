@@ -1,6 +1,0 @@
-{
-  "name": "Personal AI Trade Journal",
-  "description": "An interactive trading journal for perpetual trades featuring advanced real-time performance tracking and mock/live AI technical coaching reviews.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
